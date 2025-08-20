@@ -28,12 +28,12 @@ Access the app at `http://localhost:5173`
 
 ## 📚 Documentation
 
-- **[Setup Guide](SETUP.md)** - Installation, configuration, and environment setup
-- **[Architecture](ARCHITECTURE.md)** - System design, components, and data flow
-- **[API Reference](API_REFERENCE.md)** - Endpoint documentation and examples
-- **[Contributing](CONTRIBUTING.md)** - Development workflow and guidelines
-- **[Troubleshooting](TROUBLESHOOTING.md)** - Common issues and debugging
-- **[Limitations](LIMITATIONS.md)** - Known issues and roadmap
+- **[Setup Guide](2-SETUP.md)** - Installation, configuration, and environment setup
+- **[Architecture](3-ARCHITECTURE.md)** - System design, components, and data flow
+- **[API Reference](4-API_REFERENCE.md)** - Endpoint documentation and examples
+- **[Contributing](5-CONTRIBUTING.md)** - Development workflow and guidelines
+- **[Troubleshooting](6-TROUBLESHOOTING.md)** - Common issues and debugging
+- **[Limitations](7-LIMITATIONS.md)** - Known issues and roadmap
 
 ## 🛠 Tech Stack
 
